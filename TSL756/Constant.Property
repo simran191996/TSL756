@@ -1,0 +1,5 @@
+URL=http://seleniumhq.org
+implicitwait=30
+excelpath=D:\\sne_dip\\abc.xlsx;
+e_download=Download_linktext
+e_xpath=/html/body/div[3]/div[1]/ul/li[4]/a_xpath
